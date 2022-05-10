@@ -18,6 +18,6 @@
 <div> 
   
  
-  ![Snake animation](https://github.com///blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ArthMlima/ArthMlima/blob/output/github-contribution-grid-snake.svg)
 
 </div>
